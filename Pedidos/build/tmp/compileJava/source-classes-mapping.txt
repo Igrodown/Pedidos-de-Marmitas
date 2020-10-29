@@ -1,0 +1,10 @@
+application/respositories/MarmitaRepository.java
+ application.respositories.MarmitaRepository
+application/controllers/MarmitaController.java
+ application.controllers.MarmitaController
+application/Application.java
+ application.Application
+application/models/Marmita.java
+ application.models.Marmita
+application/controllers/HomeController.java
+ application.controllers.HomeController
